@@ -8,4 +8,4 @@
 
 - In the Teachable Machine, I trained images of myself showing the classes to the camera, then I downloaded the model from the Tensorflow tab in Teachable-Machine to my computer for ready to use.
 
-> 
+> <img width="985" alt="Screenshot 2022-03-13 at 14 10 26" src="https://user-images.githubusercontent.com/78314396/158064119-95fd24e5-c96d-408a-a420-1cf99eaa2b78.png">
