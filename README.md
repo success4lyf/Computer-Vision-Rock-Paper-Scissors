@@ -148,4 +148,46 @@ def compare_winner(player_choice, computer_choice):
         
         return message, winner
 """
+```
 
+## Milestone 4: Using the Camera to play the game.
+
+- The webcam code and the function code is conbined to play the game. A countdown variable is created to show scores and rounds of the game. if the computer or players scores 3, the game ends. below is the code that starts the game with the camera and a screenshot of the game.
+
+```python
+"""
+if started:
+        elapsed = 3 - (time.time() - counter)
+        if not countdown:
+            if elapsed <= -2:
+                if player_score == 3:
+                    message = "Game Over, Player Wins. Press 'q' to quit the game."
+                elif computer_score == 3:
+                    message = "Game over, Computer Wins press 'q' to quit the game."
+                else:
+                    message = "Press p to play the next round"
+            if cv2.waitKey(33) == ord('p'):
+                started = False
+                elapsed = 0 
+
+        elif elapsed <= 0:
+            countdown = False
+
+            player_action = get_player_choice(prediction)
+            computer_action = random.choice(possible_choices)
+            the_winner = determine_winner(player_action, computer_action)
+
+            if winner == "Player":
+                player_score += 1
+                round += 1  
+            elif winner == "Computer":
+                computer_score += 1
+                round += 1
+            else:
+                winner == "No one"
+         if countdown:
+            message = f'show your hand in {int(elapsed)} seconds' 
+            
+ """
+ ```
+ 
