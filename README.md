@@ -190,4 +190,8 @@ if started:
             
  """
  ```
+> <img width="880" alt="Screenshot 2022-04-07 at 08 26 32" src="https://user-images.githubusercontent.com/78314396/162151527-62b5daef-d07c-41ee-b479-ef47626ef045.png">
  
+## Conclusion
+
+- The computer vision project was successfully completed with the code above. To take this further, a target zone box for the hand detection for player and computer can be implemented
