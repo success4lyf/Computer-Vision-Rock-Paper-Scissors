@@ -12,7 +12,7 @@
 
 ## Milestone 2: Installing the dependencies and runing the model in the machine
 
-- A virtual environment was created for this project using conda and all other packages was installed. Using the code below, the virtual environment was created , activated and packages(opencv-python, tensorflow and ipykernel) were installed.
+- A virtual environment was created for this project using conda and all other packages was installed. Using the code below, the virtual environment was created, activated and packages(opencv-python, tensorflow and ipykernel) were installed.
 
 ```python
 """
