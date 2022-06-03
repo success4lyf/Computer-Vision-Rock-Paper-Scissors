@@ -3,7 +3,6 @@
 > In this project, an interactive Rock-Paper-Scissors game was created, in which the user can play with the computer using the camera.
 ## Workflow
 
-<img width="568" alt="Screenshot 2022-06-01 at 12 52 25" src="https://user-images.githubusercontent.com/78314396/171399060-a92871d0-101e-4d46-80eb-e5efbe344254.png">
 
 ## Milestone 1: Creating The Model
 
