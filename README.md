@@ -1,7 +1,6 @@
 # Computer-Vision-Rock-Paper-Scissors
 
 > In this project, an interactive Rock-Paper-Scissors game was created, in which the user can play with the computer using the camera.
-## Workflow
 
 
 ## Milestone 1: Creating The Model
