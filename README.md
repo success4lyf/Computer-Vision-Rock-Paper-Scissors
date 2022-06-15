@@ -195,4 +195,4 @@ if started:
  
 ## Conclusion
 
-- The computer vision project was successfully completed with the code above. To take this further, a target zone box for the hand detection for player and computer can be implemented
+- The computer vision project for Rock, Paper, Scissors gane was successfully completed with the code above. To take this further, a target zone box for the hand detection for player and computer can be implemented
