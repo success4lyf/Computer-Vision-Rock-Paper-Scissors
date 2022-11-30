@@ -17,7 +17,7 @@
 
 ```python
 """
-conda install -n Computer_Vision
+conda create -n Computer_Vision
 conda activate Computer_Vision
 conda install pip
 pip install opencv-python
